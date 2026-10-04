@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Monochrome developer Workspace Sketch" alt="Raj Singh - Full Stack Developer" width="100%">
+<img src="./my-sketch.png" alt="Raj Singh - Full Stack Developer" width="100%">
 </div>
 # Hi, I'm Raj Singh 👋
 

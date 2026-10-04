@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="Monochrome developer Workspace Sketch" alt="Raj Singh - Full Stack Developer" width="100%">
+</div>
 # Hi, I'm Raj Singh 👋
 
 ### Full-Stack Developer | React ⚛️ | Java ☕ | Spring Boot 🚀

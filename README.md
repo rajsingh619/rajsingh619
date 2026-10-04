@@ -2,7 +2,7 @@
 
 <img src="./my-sketch.png" alt="Raj Singh - Full Stack Developer" width="100%">
 </div>
-# Hi, I'm Raj Singh 👋
+# Hi, I'm Raj 👋
 
 ### Full-Stack Developer | React ⚛️ | Java ☕ | Spring Boot 🚀
 
